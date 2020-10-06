@@ -14,9 +14,6 @@ import Posts from './components/Posts/Posts.js';
 import SearchBar from './components/SearchBar/SearchBar.js';
 import users from './dummy-data.js'
 
-// import Post from './components/Posts/Post.js'
-// import postHeader from './components/Posts/PostHeader.js'
-
 const App = () => {
   // Create a state called `posts` to hold the array of post objects, **initializing to dummyData**.
   // This state is the source of truth for the data inside the app. You won't be needing dummyData anymore.
